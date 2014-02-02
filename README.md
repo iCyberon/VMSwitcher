@@ -1,7 +1,7 @@
 VMSwitcher
 ==========
 
-iOS like checkbox (Toggle Wwitch) for Mac OS X
+iOS like checkbox (Toggle Switch) for Mac OS X
 
 ## License
 
